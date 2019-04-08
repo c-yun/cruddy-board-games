@@ -1,0 +1,51 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    margin: 20px;
+    font-family: monospace;
+}
+
+form {
+    display: inline-block;
+}
+
+div {
+    margin: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 1em;
+    color: whitesmoke;
+}
+
+h1 {
+    font-size: 3em;
+    font-family: 'Monoton', cursive;
+}
+
+a:visited {
+    color: whitesmoke;
+}
+
+a:hover {
+    color: greenyellow;
+}
+
+#name {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+#homepage {
+    font-size: 2em;
+}
